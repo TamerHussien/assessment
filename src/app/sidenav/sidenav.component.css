@@ -1,0 +1,11 @@
+md-sidenav-container {
+    height: 300px;
+}
+
+md-sidenav {
+    width: 200px;
+}
+
+.button-width {
+    min-width: 100%;
+}

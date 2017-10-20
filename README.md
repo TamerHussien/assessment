@@ -26,3 +26,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Road blocks
+
+my road with blocking form the far begining i encountered a lot of techanical issues like compatibility between Angular material and angular also i got another issue "cannot resolve scholldetail component"
+and last issue i got is "ERROR in SchooldetailComponent is not an NgModule"
+and all of this takes along timeto resolve and ran out my time in doing problem solving search instead of complete the assessment. 
+
